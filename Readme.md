@@ -1,6 +1,6 @@
 <b>Bet & Bosca</b>
 
-Kleines Tippspiel
+Kleines Tippspiel<br>
 Wann hat Bosca / Musculus / Passcal sein Rankedgame 100 & 200?
 
 Wetten können bei Dizney im TS oder in LoL direkt abgegeben werden. Wer am nähesten drann ist gewinnt.
